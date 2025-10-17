@@ -3,7 +3,7 @@ import json
 from google import genai
 from google.genai.errors import APIError
 
-MY_API_KEY = "AIzaSyArb4etGrvqpPQSBh32rlnjkDmZKOc8vzI"
+MY_API_KEY = "AIzaSyArb4etGrvqpPQSBh32rlnjkDmZKOc8vzI" # <---- Izdzēsu google AI studio
 
 if MY_API_KEY and MY_API_KEY != "AI_ATSLĒGA_ŠO_NEPIECIEŠAMS_AIZSTĀT":
     os.environ["GEMINI_API_KEY"] = MY_API_KEY
@@ -139,3 +139,4 @@ if __name__ == "__main__":
                 evaluate_cv(JD_FILE, cv_file, PROMPT_FILE, f"cv{i}")
             else:
                 print(f"Brīdinājums: CV fails '{cv_file}' nav atrasts. Izlaiž.")
+
