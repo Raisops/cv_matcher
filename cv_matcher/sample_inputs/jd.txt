@@ -1,0 +1,7 @@
+Software Engineer (Python)
+Requirements:
+- Strong Python programming skills
+- Experience with REST APIs and JSON
+- Familiarity with databases (PostgreSQL or MySQL)
+- Version control (Git)
+- Good communication and teamwork

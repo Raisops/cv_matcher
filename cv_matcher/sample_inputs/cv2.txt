@@ -1,0 +1,5 @@
+Jane Smith
+Junior Web Developer
+- HTML, CSS, JavaScript experience
+- Some Python scripting knowledge
+- Looking to grow backend development skills

@@ -1,0 +1,5 @@
+Mark Johnson
+Data Analyst
+- SQL, Pandas, Excel, Power BI
+- No experience with APIs or backend
+- Interested in switching to software development
